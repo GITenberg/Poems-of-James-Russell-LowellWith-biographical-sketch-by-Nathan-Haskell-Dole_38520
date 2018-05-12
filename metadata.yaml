@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/456
     wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38520#Poems-of-James-Russell-LowellWith-biographical-sketch-by-Nathan-Haskell-Dole
 gutenberg_issued: '2012-01-07'
 gutenberg_type: Text
 identifiers:
